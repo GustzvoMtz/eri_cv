@@ -1,0 +1,28 @@
+header {
+    color: #310A90;
+    width: 100vw;
+    height: 61px;   
+}
+
+.navOrden{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+
+.anchoDiv{
+    padding-left: 128px ;
+    padding-right: 128px;
+}
+
+.anchoDiv1{
+    padding-right: 128px;
+}
+.colorB{
+    color: white;
+}
+
+
+
+
+

@@ -1,0 +1,58 @@
+.imagenGus{
+    width: 500px;
+}
+
+.borde{
+    border-radius: 24px;
+}
+
+section{
+    color: #310A90;
+    flex-direction: row;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    
+}
+.sep{
+    padding-top: 83px;
+}
+
+.h3font{
+    font-size: 30px;
+}
+.h1font{
+    font-size: 45px;
+}
+
+.parra{
+    width: 350px;
+}
+.acomodoboton{
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+.icono{
+    background-color: white;
+    height: 27px;
+    width: 27px;
+    border: solid 2px #310A90;
+    border-radius: 5px;
+}
+
+.iconosep{
+    padding-left: 15px;
+}
+
+.estiloBoton{
+    color: white;
+    background-color: #310A90;
+    height: 30px;
+    width: 210px;
+}
+
+
+
+

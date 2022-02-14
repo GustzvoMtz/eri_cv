@@ -1,0 +1,55 @@
+.botones{
+    display: flex;
+    flex-direction: row;
+}
+
+.botonAzul{
+    font-size: 20px;
+    font-family: Poppins;
+    color: white;
+    width: 140px;
+    height: 40px;
+    border-radius: 5px;
+    background-color: #310A90;
+    border: solid 2px white;
+}
+
+.botonBlanco{
+    font-size: 20px;
+    font-family: Poppins;
+    color: white;
+    width: 140px;
+    height: 40px;
+    border-radius: 5px;
+    background-color: transparent;
+    border: solid 2px #310A90;
+}
+
+.margenBoton{
+    margin-right: 30px;
+}
+
+.formasBoton{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.proyecto{
+    margin-top: 60px;
+    font-family: Poppins;
+    height: 40px;
+    width: 200px; 
+    color: white;
+    text-align: center;
+    font-size: 17px;
+    background-color: #310A90;
+    border-bottom: solid 2px white;
+    border-left: solid 2px white;
+}
+
+.anchoTexto{
+    width: 350px ;
+    margin-right: 180px;
+
+}

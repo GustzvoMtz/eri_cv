@@ -1,0 +1,19 @@
+.secAbajo{
+    padding-top: 80px;    
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cambio{
+    text-align: center;
+    width: 800px;
+    font-family: Oxygen;
+    font-size: 30px;
+    
+}
+
+
+
+

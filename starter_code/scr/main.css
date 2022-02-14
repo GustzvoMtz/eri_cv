@@ -1,0 +1,272 @@
+@import url(./header.css);
+@import url(./imagenGus.css);
+@import url(./abajo.css);
+@import url(./myProyecto.css);
+@import url(./fondoazul.css);
+@import url(./table.css);
+@import url(./erika.css);
+@import url(./telefono.css);
+
+body{
+    font-family: Poppins;
+    font-style: normal;
+    background: blue;
+    background:radial-gradient(circle, #747DE9 0%, rgba(108, 178, 243, 0.575) 100%) ;
+}
+
+.separador{
+    height: 50%;
+}
+
+.nav_bar{
+    display: none;
+}
+.desa{
+    display: block;
+}
+
+.desa{
+    display: none;
+}
+
+apare{
+    display: block;
+}
+
+
+
+
+@media screen and (max-width: 600px){
+
+    .nav_bar3{
+        display: none;
+    }
+
+    .nav_bar{
+        display: none;
+    }
+
+    #esconder{
+        display: none;
+    }
+
+    .nav_bar1{
+        display: block;
+    }
+
+    div{
+        width: 90%;
+    }
+
+    .abajo{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .abajo_reves{
+        display: flex;
+        flex-direction: column-reverse;
+        justify-content: center;
+        align-items: center;
+    }
+
+    #logo{
+        display: flex;
+        justify-content: flex-start;
+        align-items: flex-start;
+        flex-direction: row;
+    }
+
+    #anchodivM{
+        padding-left: 10%;
+        font-size: 20px;
+    }
+
+    #botonM{
+        font-size: 40px;
+        color: white;
+        background-color: #310A90;
+        border: solid 10px #310A90;
+        border-radius: 15px;
+    }
+
+    #posM{
+        padding-left: 15%;
+    }
+
+    #imagenM{
+        margin-top: 10%;
+    }
+
+    #ajustenombreM{
+        font-size: 60px;
+    }
+    #ajustenombreM1{
+        font-size: 70px;
+    }
+    #ajustenombreM2{
+        font-size: 30px;
+    }
+
+    #iconosM{
+        background-color: white;
+        height: 50px;
+        width: 50px;
+        border: solid 2px #310A90;
+        border-radius: 5px;
+    }
+
+    .espacio_boto_M{
+        margin-top: 10%;
+    }
+
+    #estilo_boton_Grande{
+        font-size: 30px;
+        color: white;
+        background-color: #310A90;
+        width: 500px;
+        height: 50px;
+    }
+
+    #ajuste_texto_sec2{
+        text-align: center;
+        width: 90vw;
+        font-family: Oxygen;
+        font-size: 30px;
+    }
+
+    #mi_proyectoM{
+        text-align:start;
+        justify-items: center;
+        width: 90vw;
+        font-family: Oxygen;
+        font-size: 30px;
+    }
+
+    #botonesM{
+            display: flex;
+            flex-direction: column-reverse;
+    }
+
+    div{
+        margin: 1%;
+    }
+
+    #proyecto_MM{
+        width: 70vw;
+        height: 5vh;
+        margin-top: 60px;
+        font-family: Poppins;
+        color: white;
+        font-size: 30px;
+        background-color: #310A90;
+        box-shadow: -4px 4px 0px #FFFFFF;
+    }
+
+    #tamaño_boton_ver{
+        width: 90vw;
+        height: 70px;
+        margin-top: 7%;
+    }
+
+    #erika_centrado{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    #tipo_letra{
+        width: 90%;
+    }
+
+    .centroMerika{
+        width: 90vw;
+    }
+
+    .tamaño_imagen_M_grande{
+        margin-top: 40px;
+        margin-left: 30vw;
+        width: 160px;
+        height: 160px;
+        border-radius: 130px ;
+    }
+
+    #tableM{
+        width: 10px;
+    }
+
+    #espacioMT{
+        padding-left: 10%; 
+        width: 90%;
+    }
+
+    .tableMSR{
+        width: 80%;
+        border: solid 30px white;
+        border-radius: 15px;
+    }
+
+    #marvol1{
+        margin-top: 60px;
+        font-family: Poppins;
+        height: 110px;
+        width: 300px; 
+        color: white;
+        text-align: center;
+        background-color: #310A90;
+        font-size: 50px;
+        box-shadow: -4px 4px 0px #FFFFFF;
+    }
+
+    #Agrandar_texto{
+        font-size: 25px ;
+
+    }
+
+    #botone_grandes{
+        width: 400px;
+        height: 50px;
+    }
+
+    .margenTel2{
+        border-radius: 30px;
+        border: solid 20px white;
+        margin-left: 22%;
+    }
+
+    #formaNet2{
+        width: 250px;
+        height: 130px;
+        font-size: 40px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    
+
+
+
+
+    
+
+
+
+
+
+
+
+
+}

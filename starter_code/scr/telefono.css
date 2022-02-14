@@ -1,0 +1,34 @@
+.margenTel{
+    border-radius: 30px;
+    border: solid 20px white;
+    margin-left: 200px;
+}
+
+.displayNetnet{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+    margin-top: 150px;
+}
+
+.telSec{
+    margin-top: 150px;
+}
+
+.formaNet{
+    text-align: center;
+    font-size: 25px;
+    color: white; 
+    width: 180px;
+    background: #310A90;
+    box-shadow: -4px 4px 0px #FFFFFF;
+}
+
+.anchoPTel{
+    width: 310px;
+}
+
+
+
+
